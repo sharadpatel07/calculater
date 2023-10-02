@@ -1,0 +1,127 @@
+body{
+    background-color: black;
+
+}
+
+.cal{
+    justify-content: center;
+    position: relative;
+    padding-left: 0px;
+    padding-top: 0px;
+    left: 581px;
+    top: 131px;
+    border: 5px solid white;
+    width: 270px;
+    padding: 30px;
+    width: 230px;
+    padding-right: 10px;
+    background-color: #1c1c1c;
+    border-radius: 25px;
+    cursor: pointer;
+    display: block;
+
+}
+
+#display {
+    padding-left: 0px;
+    width: 204px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    height: 25px;
+    font-size: 20px;
+}
+.lineA{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 240px;
+}
+
+.lineA input{
+    margin-right: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+
+}
+.lineA input :hover {
+    border: 2px solid yellow;
+    background-color: white;
+
+
+}
+.lineA input  :active{
+    background-color: #1c1c1c;
+    border: 2px solid #1c1c1c;
+}
+.lineB{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lineB input{
+    margin-right: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+
+}.lineC{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lineC input{
+    margin-right: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+
+}.lineD{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lineD input{
+    margin-right: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+
+}
+
+.lineE{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lineE input{
+    margin-right: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.ans{
+    padding-left: 20px;
+    padding-right: 20px;
+}
